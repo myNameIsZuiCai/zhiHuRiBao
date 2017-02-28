@@ -1,2 +1,1 @@
-# zhiHuRiBao
-# zhiHuRiBao
+毕业时仿照知乎日报做的iOS客户端。
