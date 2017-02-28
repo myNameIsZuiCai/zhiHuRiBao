@@ -2,8 +2,8 @@
 //  ____Tests.m
 //  毕业设计Tests
 //
-//  Created by 码农教育2 on 16/1/10.
-//  Copyright © 2016年 码农教育2. All rights reserved.
+//  Created by 啦啦啦啦 on 16/1/10.
+//  Copyright © 2016年 啦啦啦啦. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

@@ -2,8 +2,8 @@
 //  NewDerailJson.h
 //  ZhiHu
 //
-//  Created by 码农教育20 on 16/1/15.
-//  Copyright © 2016年 码农教育20. All rights reserved.
+//  Created by 啦啦啦啦0 on 16/1/15.
+//  Copyright © 2016年 啦啦啦啦0. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

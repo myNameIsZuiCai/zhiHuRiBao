@@ -3423,7 +3423,7 @@
 				);
 				INFOPLIST_FILE = "毕业设计/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "manongjiaoyu.----";
+				PRODUCT_BUNDLE_IDENTIFIER = "lalalala.----";
 				PRODUCT_NAME = NewsReader;
 			};
 			name = Debug;
@@ -3439,7 +3439,7 @@
 				);
 				INFOPLIST_FILE = "毕业设计/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "manongjiaoyu.----";
+				PRODUCT_BUNDLE_IDENTIFIER = "lalalala.----";
 				PRODUCT_NAME = NewsReader;
 			};
 			name = Release;

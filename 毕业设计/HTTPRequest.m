@@ -3,7 +3,7 @@
 //  毕业设计
 //
 //  Created by manongjiaoyu16 on 16/1/21.
-//  Copyright © 2016年 码农教育2. All rights reserved.
+//  Copyright © 2016年 啦啦啦啦. All rights reserved.
 //
 
 #import "HTTPRequest.h"
